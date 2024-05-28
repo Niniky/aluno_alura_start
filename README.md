@@ -1,3 +1,3 @@
-## Seja Bem Vindo ao meu perfil
+## Seja Bem Vindo ao meu perfil 🫀
 sou aluna do alura
-aqui sera publicado meus projeto em java script 
+aqui será publicado meus projeto em java script 
